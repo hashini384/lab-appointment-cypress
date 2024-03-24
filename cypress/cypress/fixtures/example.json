@@ -1,0 +1,16 @@
+{
+  "patient1": {
+    "id": "PAT-123457",
+    "name": "Ashan",
+    "phone": "1234567890",
+    "email": "Ashan@example.com",
+    "dob": "1990-01-25"
+  },
+  "patient2": {
+    "id": "PAT-123456",
+    "name": "Hashini",
+    "phone": "1234567890",
+    "email": "Hashini@example.com",
+    "dob": "1990-01-25"
+  }
+}
